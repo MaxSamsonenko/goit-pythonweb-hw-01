@@ -1,0 +1,20 @@
+
+2025-03-04 16:11:27 [INFO] Book 'The Book' added.
+2025-03-04 16:11:45 [INFO] Invalid command. Please try again.
+2025-03-04 16:11:52 [INFO] Invalid command. Please try again.
+2025-03-04 16:12:00 [INFO] Invalid command. Please try again.
+2025-03-04 16:12:04 [INFO] Invalid command. Please try again.
+2025-03-04 16:12:19 [INFO] Invalid command. Please try again.
+2025-03-04 16:12:26 [INFO] "The Book" by Some Guy (1987)
+2025-03-04 16:13:13 [INFO] Book 'Another Book' added.
+2025-03-04 16:13:16 [INFO] "The Book" by Some Guy (1987)
+2025-03-04 16:13:16 [INFO] "Another Book" by Another Guy (1919)
+2025-03-04 16:13:32 [INFO] Book 'A book to remove' added.
+2025-03-04 16:13:34 [INFO] "The Book" by Some Guy (1987)
+2025-03-04 16:13:34 [INFO] "Another Book" by Another Guy (1919)
+2025-03-04 16:13:34 [INFO] "A book to remove" by Nobody (2025)
+2025-03-04 16:13:46 [INFO] Book 'A book to remove' removed.
+2025-03-04 16:13:49 [INFO] "The Book" by Some Guy (1987)
+2025-03-04 16:13:49 [INFO] "Another Book" by Another Guy (1919)
+2025-03-04 16:14:47 [INFO] Ford Mustang (US Spec): Engine started
+2025-03-04 16:14:47 [INFO] BMW R1250 (EU Spec): Motorcycle started
